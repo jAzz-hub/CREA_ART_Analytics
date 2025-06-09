@@ -1,0 +1,17 @@
+"Quando você me enviou essa tabela, qual era o principal problema que você queria resolver com ela?"
+
+Eu gostaria que os dados da coluna Atividades fossem separados de modo que eles pudessem representar informações, ou que eu pudesse explorar insights dos mesmos.
+
+Exemplo: Clusterizar as informações contidas na coluna ATIVIDADES por similaridade e rotular esses clusters também.
+
+Desse modo seria possível criar visualizações mais bem elaboradas.
+
+Dados interessantes:
+
+Quem são as ARTS mais complexas? As que tem mais de 3 detalhamentos em atividades.
+
+As ARTS tem números em comum, descobrir o que esses números significam e gerar uma coluna para o primeiro número presente na terceira sub-categoria de uma ART.
+
+	Gerar uma legenda(outra coluna que corresponda à uma valor qualitativo associado ao número presenta na terceira sub-categoria de uma ART).
+
+As ARTs que tem palavras chave como segurança, ou outra palavra chave, Podem ser valiosas e necessariamente dizerem se há muito dinheiro envolvido à elas ou não.
